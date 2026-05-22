@@ -1,0 +1,92 @@
+/* ============ Inter ============ */
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('fonts/inter/Inter-Regular.woff2') format('woff2');
+    unicode-range: U+0020-007E, U+00A0-00FF, U+0100-017F;
+}
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url('fonts/inter/Inter-Medium.woff2') format('woff2');
+    unicode-range: U+0020-007E, U+00A0-00FF, U+0100-017F;
+}
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('fonts/inter/Inter-Bold.woff2') format('woff2');
+    unicode-range: U+0020-007E, U+00A0-00FF, U+0100-017F;
+}
+
+/* ============ Source Han Sans SC（思源黑体）============ */
+@font-face {
+    font-family: 'Source Han Sans SC';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('fonts/source-han-sans-sc/SourceHanSansSC-Regular.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Source Han Sans SC';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url('fonts/source-han-sans-sc/SourceHanSansSC-Medium.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Source Han Sans SC';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('fonts/source-han-sans-sc/SourceHanSansSC-Bold.woff2') format('woff2');
+}
+
+/* ============ JetBrains Mono ============ */
+@font-face {
+    font-family: 'JetBrains Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('fonts/jetbrains-mono/JetBrainsMono-Regular.woff2') format('woff2');
+    unicode-range: U+0020-007E, U+00A0-00FF, U+0100-017F;
+}
+@font-face {
+    font-family: 'JetBrains Mono';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url('fonts/jetbrains-mono/JetBrainsMono-Medium.woff2') format('woff2');
+    unicode-range: U+0020-007E, U+00A0-00FF, U+0100-017F;
+}
+@font-face {
+    font-family: 'JetBrains Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('fonts/jetbrains-mono/JetBrainsMono-Bold.woff2') format('woff2');
+    unicode-range: U+0020-007E, U+00A0-00FF, U+0100-017F;
+}
+
+/* ============ LXGW WenKai（霞鹜文楷）============ */
+@font-face {
+    font-family: 'LXGW WenKai';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('fonts/lxgw-wenkai/LXGWWenKai-Regular.woff2') format('woff2');
+}
+
+/* ============ LXGW WenKai Mono（霞鹜文楷等宽）============ */
+@font-face {
+    font-family: 'LXGW WenKai Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('fonts/lxgw-wenkai-mono/LXGWWenKaiMono-Regular.woff2') format('woff2');
+}
